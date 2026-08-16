@@ -27,6 +27,8 @@ The reservation and contact forms are frontend demonstrations. They do not send 
 
 The food photography currently uses remote Unsplash image URLs. For a production deployment, replace these with properly licensed restaurant photography stored locally.
 
+GitHub Pages deployment refresh.
+
 ## Contact details used
 Savoré
 13, Osho Street, Shomolu, Lagos
